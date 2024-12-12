@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		AE959E972D0AEDF300F134F7 /* ScrollTransitionsExample3.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE959E962D0AEDF300F134F7 /* ScrollTransitionsExample3.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		AE959E7C2D0AD98100F134F7 /* Scroll Transitions Visual Effects.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Scroll Transitions Visual Effects.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AE959E962D0AEDF300F134F7 /* ScrollTransitionsExample3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollTransitionsExample3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		AE959E732D0AD98100F134F7 = {
 			isa = PBXGroup;
 			children = (
+				AE959E962D0AEDF300F134F7 /* ScrollTransitionsExample3.swift */,
 				AE959E7E2D0AD98100F134F7 /* Scroll Transitions Visual Effects */,
 				AE959E7D2D0AD98100F134F7 /* Products */,
 			);
@@ -119,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE959E972D0AEDF300F134F7 /* ScrollTransitionsExample3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
